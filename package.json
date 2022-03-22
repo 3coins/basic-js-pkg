@@ -1,0 +1,22 @@
+{
+  "name": "basic-js-pkg",
+  "version": "1.0.0",
+  "description": "Basic javascript package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Warn: no tests specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3coins/basic-js-pkg.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Piyush Jain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3coins/basic-js-pkg/issues"
+  },
+  "homepage": "https://github.com/3coins/basic-js-pkg#readme"
+}
